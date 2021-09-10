@@ -15,4 +15,4 @@ loki-stack:
         ports:
           - containerPort: 9479
             protocol: TCP
-            name: filebeat-metrics
+            name: metrics
